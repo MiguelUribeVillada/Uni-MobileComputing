@@ -1,1 +1,2 @@
-
+In this initial mobile computing workshop, my task was to create a mobile application with a user interface offering various options. The main screen of this application featured three buttons and a spinner. The first button allowed users to play the well-known game Tic-Tac-Toe. The second button opened an interface that greeted the user in the language previously selected from the spinner.
+Finally, the third button was designed to read a .json file containing data about countries. Upon activation, it displayed the names of all the countries contained in the .json file in a ListView. Clicking on the name of any of these countries provided detailed information about that specific country from the .json dataset.
