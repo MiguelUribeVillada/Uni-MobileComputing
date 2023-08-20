@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:gravity="center"
+    android:background="#BC80C6">
+
+    <TextView
+        android:id="@+id/tvCountryName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre del país"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="#512F57"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvCountryCapital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capital"
+        android:layout_below="@+id/tvCountryName"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="#68486E"
+        android:layout_marginTop="10dp"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tvCountryNameInt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre Internacional"
+        android:layout_below="@+id/tvCountryCapital"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="#68486E"
+        android:layout_marginTop="10dp"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tvCountrySigla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sigla"
+        android:layout_below="@+id/tvCountryNameInt"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="#68486E"
+        android:layout_marginTop="10dp"
+        android:textSize="25sp" />
+</RelativeLayout>
