@@ -2,7 +2,7 @@
 In the context of the Mobile Computing workshop, the primary goal was to design and develop a cohesive mobile application. This application needed to incorporate three distinct buttons, each serving a specific purpose. The first button was intended to provide access to phone contacts, while the second allowed users to capture or select images and display them within the app. The third button aimed to create an engaging map-based interface with dynamic features, such as location-based services and route planning. Additionally, the application was required to handle permissions effectively, ensure user-friendly interactions, and implement Geocoder and OSM Bonuspack libraries to enhance its functionality. This README will guide you through the installation and usage of the application, highlighting its overall objective and key features.
 
 # Installation
-- To run this mobile application, follow these steps:
+To run this mobile application, follow these steps:
 - Clone this repository to your local machine.
 - Open the project in your preferred integrated development environment (IDE) for mobile app development.
 - Build and run the application on your Android device or emulator.
