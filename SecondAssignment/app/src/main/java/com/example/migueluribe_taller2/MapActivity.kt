@@ -48,8 +48,7 @@ import java.util.Date
 
 class MapActivity : AppCompatActivity(), SensorEventListener {
     // Acà hago la inicializaciòn de todas las variables necesarias para esta interfaz.
-    // Acà decalro la distancia mínima de 30 metros que nos pide el taller para la actualizacoòn del archivo json.
-    private val MIN_DISTANCE_FOR_UPDATE = 30.0
+    private val MIN_DISTANCE_FOR_UPDATE = 15.0
     // Y acà se encuentran el resto de inicializaciòn de variables necesarias para mi aplicaciòn.
     private val JSON_FILE_NAME = "location_records.json"
     private val TAG = "MapActivity"
