@@ -7,6 +7,10 @@ In the context of the Mobile Computing workshop, the primary goal was to design 
 - Open the project in your preferred integrated development environment (IDE) for mobile app development.
 - Build and run the application on your Android device or emulator.
 
+# Download
+You can download the pre-built APK (app-debug.apk) directly from this repository. Just click the following link to start the download:
+[Download app-debug.apk](MyAPK)
+
 # Usage
 Once the application is running, you can use the three buttons on the main screen to access different features:
 - Button 1: Access phone contacts.
