@@ -9,7 +9,7 @@ To run this mobile application, follow these steps:
 
 # Download
 You can download the pre-built APK (app-debug.apk) directly from this repository. Just click the following link to start the download:
-[MyAPK](https://raw.githubusercontent.com/MiguelUribeVillada/Uni-MobileComputing/main/SecondAssignmentapp-debug.apk)
+[MyAPK](https://raw.githubusercontent.com/MiguelUribeVillada/Uni-MobileComputing/main/SecondAssignment/app-debug.apk)
 
 
 # Usage
