@@ -49,7 +49,6 @@ import java.util.Date
 class MapActivity : AppCompatActivity(), SensorEventListener {
     // Acà hago la inicializaciòn de todas las variables necesarias para esta interfaz.
     private val MIN_DISTANCE_FOR_UPDATE = 15.0
-    // Y acà se encuentran el resto de inicializaciòn de variables necesarias para mi aplicaciòn.
     private val JSON_FILE_NAME = "location_records.json"
     private val TAG = "MapActivity"
     private var lastLocation: Location? = null
