@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@color/Fondo2"
+    android:layout_margin="33dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_margin="16dp"
+        android:layout_weight="1"
+        android:background="@color/Fondo2"
+        android:gravity="center"
+        android:text="Taller #2 - Miguel Uribe"
+        android:textColor="#000000"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+
+    <ImageButton
+        android:id="@+id/contacts"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/Fondo2"
+        android:scaleType="fitCenter"
+        android:src="@drawable/contacts" />
+
+    <ImageButton
+        android:id="@+id/camera"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/Fondo2"
+        android:scaleType="fitCenter"
+        android:src="@drawable/camera" />
+
+    <ImageButton
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/Fondo2"
+        android:scaleType="fitCenter"
+        android:src="@drawable/osmap" />
+</LinearLayout>
