@@ -9,7 +9,7 @@ In the context of the Mobile Computing workshop, the primary goal was to design 
 
 # Download
 You can download the pre-built APK (app-debug.apk) directly from this repository. Just click the following link to start the download:
-[Download app-debug.apk](MyAPK)
+[MyAPK](path_to_app_debug_apk)
 
 # Usage
 Once the application is running, you can use the three buttons on the main screen to access different features:
