@@ -20,4 +20,4 @@ Once the application is running, you can use the three buttons on the main scree
 Feel free to explore and interact with the app to discover its full functionality.
 
 # Credits
-This application was developed by MiguelUribeVillada as part of the Mobile Computing workshop.
+This application was developed by MiguelUribeVillada as part of my Mobile Computing workshop.
