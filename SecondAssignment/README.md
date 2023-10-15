@@ -9,7 +9,8 @@ To run this mobile application, follow these steps:
 
 # Download
 You can download the pre-built APK (app-debug.apk) directly from this repository. Just click the following link to start the download:
-[Download app-debug.apk](app-debug.apk)
+[MyAPK](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/master/app-debug.apk)
+
 
 # Usage
 Once the application is running, you can use the three buttons on the main screen to access different features:
